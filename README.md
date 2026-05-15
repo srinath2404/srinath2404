@@ -1,5 +1,8 @@
 # 💫 About Me:
- "Full Stack Developer | MERN Enthusiast | Open Source Contributor<br>🔭 Currently working on: POS & Inventory Management Systems<br>🌱 Learning: Advanced Scalability & System Design<br>💬 Ask me about: React, Node.js, and Building Tech Products"
+ Full-Stack Engineer | Building Enterprise SaaS Platforms & Workflow Systems
+🔭 Currently working on: Enterprise Policy Management Platform, Azure Deployment & Collaboration Workflows
+🌱 Exploring: Scalability, System Design, AI Integrations & Cloud Architecture
+💬 Ask me about: React, Node.js, PostgreSQL, Azure, and SaaS Product Development
 
 
 ## 🌐 Socials:
