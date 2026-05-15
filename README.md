@@ -1,8 +1,13 @@
 # 💫 About Me:
- "Full-Stack Engineer | Building Enterprise SaaS Platforms & Workflow Systems|
-🔭 Currently working on: Enterprise Policy Management Platform, Azure Deployment & Collaboration Workflows|
-🌱 Exploring: Scalability, System Design, AI Integrations & Cloud Architecture|
-💬 Ask me about: React, Node.js, PostgreSQL, Azure, and SaaS Product Development"
+  Hi there 👋 I'm Srinath Gaddam
+
+## Full-Stack Engineer | SaaS & Workflow Systems Developer
+
+🔭 Building enterprise policy management and collaboration platforms
+
+🌱 Exploring scalability, system design, cloud infrastructure, and AI integrations
+
+💬 React.js • Node.js • PostgreSQL • Azure • SaaS Product Development
 
 
 ## 🌐 Socials:
